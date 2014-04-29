@@ -1,0 +1,9 @@
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\bin\Debug\acc_viewer.exe.config
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\obj\Debug\acc_viewer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\obj\Debug\acc_viewer.Form1.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\obj\Debug\acc_viewer.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\obj\Debug\acc_viewer.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\bin\Debug\acc_viewer.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\bin\Debug\acc_viewer.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\obj\Debug\acc_viewer.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\acc_viewer\acc_viewer\obj\Debug\acc_viewer.pdb

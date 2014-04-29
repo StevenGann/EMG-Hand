@@ -1,0 +1,34 @@
+Universal debug messaging system specification
+
+[##]        2 digit ID number. Unique to every processor/program.
+[#]         1 digit priority number. 0 is highest priority.
+[text]      String of arbitrary length. This is the message body.
+[timestamp] Timestamp applied to message by first node with an RTC.
+
+Messages are generated and passed to a downstream node. When a node receives a message, it
+check for a timestamp. If there is no timestamp and the node has an RTC, it adds it.
+The message is then passed downstream.
+
+A terminal node is a node that can access an SQL database. This node takes message and
+stores them in the database, where they are sorted according to timestamp and can be
+filtered by ID number and priority.
+
+Pseudocode:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+if (messageReceived)
+{
+	String message[4];
+	parseMessage(message);
+	
+	if (message[3] != "")
+	{
+		message[3] = generateTimestamp();
+	}
+	
+	sendMessage(message);
+}
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+void generateMessage(unsigned int8 ID, unsigned int8 priority, String text, String timestamp)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

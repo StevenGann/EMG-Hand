@@ -1,0 +1,13 @@
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\GUI_test.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\GUI_test.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Release\GUI_test.Form1.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Release\GUI_test.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Release\GUI_test.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Release\GUI_test.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Release\GUI_test.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Release\GUI_test.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\OpenTK.dll
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\OpenTK.GLControl.dll
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\OpenTK.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\OpenTK.xml
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Release\OpenTK.GLControl.xml

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\JoystickInterface\bin\Release\JoystickInterface.XML
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\JoystickInterface\bin\Release\JoystickInterface.dll
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\JoystickInterface\bin\Release\JoystickInterface.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\JoystickInterface\obj\Release\JoystickInterface.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\JoystickInterface\obj\Release\JoystickInterface.dll
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\JoystickInterface\obj\Release\JoystickInterface.pdb

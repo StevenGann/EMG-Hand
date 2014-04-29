@@ -1,0 +1,7 @@
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\bin\Debug\robot_side.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\bin\Debug\robot_side.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\obj\x86\Debug\robot_side.Form1.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\obj\x86\Debug\robot_side.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\obj\x86\Debug\robot_side.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\obj\x86\Debug\robot_side.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\robot_side\robot_side\obj\x86\Debug\robot_side.pdb
