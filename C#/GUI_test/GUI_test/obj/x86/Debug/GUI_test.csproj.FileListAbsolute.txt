@@ -1,9 +1,0 @@
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Debug\GUI_test.Form1.resources
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Debug\GUI_test.csproj.GenerateResource.Cache
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Debug\GUI_test.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Debug\Control_GUI.exe.config
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Debug\Control_GUI.exe
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\bin\Debug\Control_GUI.pdb
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Debug\Control_GUI.Properties.Resources.resources
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Debug\Control_GUI.exe
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\GUI_test\GUI_test\obj\x86\Debug\Control_GUI.pdb

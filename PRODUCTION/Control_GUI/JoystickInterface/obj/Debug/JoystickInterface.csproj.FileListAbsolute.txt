@@ -1,5 +1,0 @@
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\JoystickInterface\obj\Debug\JoystickInterface.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\JoystickInterface\bin\Debug\JoystickInterface.dll
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\JoystickInterface\bin\Debug\JoystickInterface.pdb
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\JoystickInterface\obj\Debug\JoystickInterface.dll
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\JoystickInterface\obj\Debug\JoystickInterface.pdb

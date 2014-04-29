@@ -1,8 +1,0 @@
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\bin\Debug\Robot_Server.exe
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\bin\Debug\Robot_Server.pdb
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\obj\x86\Debug\Robot_Server.Properties.Resources.resources
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\obj\x86\Debug\Robot_Server.csproj.GenerateResource.Cache
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\obj\x86\Debug\Robot_Server.exe
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\obj\x86\Debug\Robot_Server.pdb
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\obj\x86\Debug\Robot_Server.Form1.resources
-C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Robot_Server\Robot_Server\obj\x86\Debug\Robot_Server.csprojResolveAssemblyReference.cache
