@@ -1,0 +1,7 @@
+Control-side serial:
+Robot: COM3
+EMG:
+
+Robot-side serial:
+Arm Mega: COM3
+Control: COM1

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\obj\x86\Debug\Control_GUI.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\obj\x86\Debug\Control_GUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\bin\Debug\Control_GUI.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\bin\Debug\Control_GUI.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\obj\x86\Debug\Control_GUI.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\obj\x86\Debug\Control_GUI.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\obj\x86\Debug\Control_GUI.Form1.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\bin\Debug\JoystickInterface.dll
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\bin\Debug\JoystickInterface.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\obj\x86\Debug\Control_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\PRODUCTION\Control_GUI\Control_GUI\bin\Debug\Control_GUI.exe.config

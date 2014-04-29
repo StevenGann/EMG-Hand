@@ -1,0 +1,12 @@
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\bin\Release\joystick_motortest.exe.config
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\bin\Release\joystick_motortest.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\bin\Release\joystick_motortest.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\bin\Release\JoystickInterface.dll
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\bin\Release\JoystickInterface.pdb
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\bin\Release\JoystickInterface.xml
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\obj\Release\joystick_motortest.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\obj\Release\joystick_motortest.Form1.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\obj\Release\joystick_motortest.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\obj\Release\joystick_motortest.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\obj\Release\joystick_motortest.exe
+C:\Users\Administrator\Dropbox\School\Engineering Design Team\Code\C#\joystick_motortest\joystick_motortest\obj\Release\joystick_motortest.pdb
